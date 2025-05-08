@@ -1,0 +1,3 @@
+Error log started
+
+Error log ended
